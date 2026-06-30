@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0026/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 河南先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:46:47.174614'
+  source:
+    repository: kanripo
+    path: KR4d0026/KR4d0026_000.txt
+hash: sha256:865d3eefcbdb47d1e67d88889aca66d7c4f71419eecbc0ba47932f7173198fba

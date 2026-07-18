@@ -1063,6 +1063,7 @@ markers:
   - {type: substitution, offset: 2591, original: 揺, replacement: 搖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20746}}
   - {type: punctuation, offset: 2593, content: (, id: KR4d0026_krp_008-bkkpn1}
   - {type: variant, offset: 2593, length: 3, content: 皆兵共, WYG: ''}
+  - {type: voice, offset: 2593, length: 30, name: note, id: n1}
   - {type: punctuation, offset: 2596, content: /, id: KR4d0026_krp_008-bkkpn2}
   - {type: punctuation, offset: 2599, content: ), id: KR4d0026_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 2599, content: '
@@ -1113,6 +1114,7 @@ markers:
   - {type: line-break, offset: 2744, content: '', id: KR4d0026_SBCK_008-8b09}
   - {type: punctuation, offset: 2748, content: (, id: KR4d0026_krp_008-bkkpn7}
   - {type: variant, offset: 2748, length: 0, content: '', WYG: 孫用王徳恭黄世寕三將通部署牙隊}
+  - {type: voice, offset: 2748, length: 50, name: note, id: n2}
   - {type: punctuation, offset: 2763, content: /, id: KR4d0026_krp_008-bkkpn8}
   - {type: variant, offset: 2763, length: 16, content: 孫用正德恭黄州家三將通部署牙隊眞, WYG: 萬二千人候祝貴代到毆其}
   - {type: substitution, offset: 2768, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -1232,4 +1234,4 @@ markers:
   - {type: variant, offset: 3059, length: 0, content: '', WYG: 欽定四庫全書河南集巻九宋尹洙撰書啟}
   - {type: page-break, offset: 3059, content: '', id: KR4d0026_WYG_009-1a, image: WYG1090/WYG1090-0041c.png}
   back: []
-hash: sha256:445609a2300849c4a42dead68097b87cbb5ba8859dfe27c38a996ad61502b796
+hash: sha256:b9d000473151b1cde313a1b57ec9a631a39006d50895cee662c31bace874005a

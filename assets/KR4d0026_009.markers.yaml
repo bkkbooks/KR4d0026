@@ -1067,6 +1067,7 @@ markers:
   - {type: substitution, offset: 3158, original: 奸, replacement: 姦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16421}}
   - {type: punctuation, offset: 3162, content: (, id: KR4d0026_krp_009-bkkpn1}
   - {type: variant, offset: 3162, length: 3, content: 名御虐, WYG: 誣罔}
+  - {type: voice, offset: 3162, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3163, content: /, id: KR4d0026_krp_009-bkkpn2}
   - {type: punctuation, offset: 3164, content: ), id: KR4d0026_krp_009-bkkpn3}
   - {type: variant, offset: 3172, length: 1, content: 辯, WYG: 辨}
@@ -1184,4 +1185,4 @@ markers:
   - {type: variant, offset: 3460, length: 0, content: '', WYG: 欽定四庫全書河南集巻十宋尹洙撰書啟}
   - {type: page-break, offset: 3460, content: '', id: KR4d0026_WYG_010-1a, image: WYG1090/WYG1090-0047a.png}
   back: []
-hash: sha256:26f6b611ed444ca3eb378a7c9fb53ff0075b9afc7086c62f634b013bce59ad8c
+hash: sha256:b6c51f12758fda39ba13895c6b313aca519589c07814f604445e3784ad240861

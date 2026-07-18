@@ -956,6 +956,7 @@ markers:
   - {type: line-break, offset: 2771, content: '', id: KR4d0026_SBCK_012-8b09}
   - {type: indent, offset: 2771, content: 　　　, id: KR4d0026_krp_012-bkkind48}
   - {type: punctuation, offset: 2779, content: (, id: KR4d0026_krp_012-bkkpn1}
+  - {type: voice, offset: 2779, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2781, content: ), id: KR4d0026_krp_012-bkkpn2}
   - {type: 'kr:newline', offset: 2781, content: '
 
@@ -1700,4 +1701,4 @@ markers:
   - {type: variant, offset: 5018, length: 0, content: '', WYG: 欽定四庫全書河南集卷}
   - {type: page-break, offset: 5018, content: '', id: KR4d0026_WYG_013-1a, image: WYG1090/WYG1090-0064a.png}
   back: []
-hash: sha256:6deb1fa6e81b7eee91b99443c9ceea4ecb37a3bd43d54ec3cf117fabefaea804
+hash: sha256:6fbc5cfab33c4f7c25b8658f5c2d44d60f11de1dc317c570075e2fb4eaec2543

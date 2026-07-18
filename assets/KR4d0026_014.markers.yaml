@@ -102,6 +102,7 @@ markers:
   - {type: indent, offset: 153, content: 　　, id: KR4d0026_krp_014-bkkind15}
   - {type: substitution, offset: 162, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 164, content: (, id: KR4d0026_krp_014-bkkpn1}
+  - {type: voice, offset: 164, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 166, content: ), id: KR4d0026_krp_014-bkkpn2}
   - {type: 'kr:newline', offset: 166, content: '
 
@@ -232,6 +233,7 @@ markers:
   - {type: indent, offset: 499, content: 　　, id: KR4d0026_krp_014-bkkind16}
   - {type: substitution, offset: 508, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 510, content: (, id: KR4d0026_krp_014-bkkpn3}
+  - {type: voice, offset: 510, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 512, content: ), id: KR4d0026_krp_014-bkkpn4}
   - {type: 'kr:newline', offset: 512, content: '
 
@@ -344,6 +346,7 @@ markers:
   - {type: page-break, offset: 856, content: '', id: KR4d0026_WYG_014-3b, image: WYG1090/WYG1090-0073d.png}
   - {type: substitution, offset: 864, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 866, content: (, id: KR4d0026_krp_014-bkkpn5}
+  - {type: voice, offset: 866, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 868, content: ), id: KR4d0026_krp_014-bkkpn6}
   - {type: 'kr:newline', offset: 868, content: '
 
@@ -480,6 +483,7 @@ markers:
   - {type: indent, offset: 1289, content: 　　, id: KR4d0026_krp_014-bkkind19}
   - {type: substitution, offset: 1295, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 1297, content: (, id: KR4d0026_krp_014-bkkpn7}
+  - {type: voice, offset: 1297, length: 2, name: note, id: n4}
   - {type: variant, offset: 1298, length: 1, content: 記, WYG: 序}
   - {type: punctuation, offset: 1299, content: ), id: KR4d0026_krp_014-bkkpn8}
   - {type: 'kr:newline', offset: 1299, content: '
@@ -694,6 +698,7 @@ markers:
   - {type: indent, offset: 1852, content: 　　　, id: KR4d0026_krp_014-bkkind25}
   - {type: substitution, offset: 1854, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 1856, content: (, id: KR4d0026_krp_014-bkkpn9}
+  - {type: voice, offset: 1856, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 1858, content: ), id: KR4d0026_krp_014-bkkpn10}
   - {type: 'kr:newline', offset: 1858, content: '
 
@@ -1547,4 +1552,4 @@ markers:
   - {type: variant, offset: 4327, length: 0, content: '', WYG: 欽定四庫全書河南集巻十五宋尹洙撰}
   - {type: page-break, offset: 4327, content: '', id: KR4d0026_WYG_015-1a, image: WYG1090/WYG1090-0080a.png}
   back: []
-hash: sha256:575231cab82d4f9a44d863b654eaee84ba7580e281104429235ab6c5783884e7
+hash: sha256:f3aa7b4fb2436c09e714d7c9b2357aba66986473761b18d48b60de5d79c24a98

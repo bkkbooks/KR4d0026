@@ -136,6 +136,7 @@ markers:
   - {type: variant, offset: 254, length: 1, content: 寵, SBCK: 􅃂}
   - {type: punctuation, offset: 260, content: (, id: KR4d0026_krp_018-bkkpn1}
   - {type: variant, offset: 260, length: 8, content: 至隴州上慶曆二年, WYG: ''}
+  - {type: voice, offset: 260, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 264, content: /, id: KR4d0026_krp_018-bkkpn2}
   - {type: punctuation, offset: 268, content: ), id: KR4d0026_krp_018-bkkpn3}
   - {type: 'kr:newline', offset: 268, content: '
@@ -515,6 +516,7 @@ markers:
   - {type: punctuation, offset: 1323, content: (, id: KR4d0026_krp_018-bkkpn4}
   - {type: variant, offset: 1323, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 1323, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: voice, offset: 1323, length: 7, name: note, id: n2}
   - {type: substitution, offset: 1328, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 1330, content: ), id: KR4d0026_krp_018-bkkpn5}
   - {type: 'kr:newline', offset: 1330, content: '
@@ -1345,4 +1347,4 @@ markers:
   - {type: variant, offset: 3607, length: 0, content: '', WYG: 欽定四庫全書河南集巻十九宋尹洙撰}
   - {type: page-break, offset: 3607, content: '', id: KR4d0026_WYG_019-1a, image: WYG1090/WYG1090-0109c.png}
   back: []
-hash: sha256:55dc2d552adcb6e739a337578b7b0e56eae90af729d465a954b5e5b54beaec90
+hash: sha256:5b13f5df4ce67e2e5688cb655fddb218922d2f65f6a9cc811a0d755a948d92e1

@@ -128,6 +128,7 @@ markers:
   - {type: line-break, offset: 186, content: '', id: KR4d0026_SBCK_024-1b09}
   - {type: variant, offset: 188, length: 1, content: 却, SBCK: 􅁍}
   - {type: punctuation, offset: 192, content: (, id: KR4d0026_krp_024-bkkpn1}
+  - {type: voice, offset: 192, length: 15, name: note, id: n1}
   - {type: punctuation, offset: 200, content: /, id: KR4d0026_krp_024-bkkpn2}
   - {type: punctuation, offset: 207, content: ), id: KR4d0026_krp_024-bkkpn3}
   - {type: variant, offset: 208, length: 1, content: 歩, WYG: 步}
@@ -139,6 +140,7 @@ markers:
   - {type: variant, offset: 213, length: 0, content: '', WYG: 以}
   - {type: variant, offset: 215, length: 1, content: 且, WYG: ''}
   - {type: punctuation, offset: 222, content: (, id: KR4d0026_krp_024-bkkpn4}
+  - {type: voice, offset: 222, length: 15, name: note, id: n2}
   - {type: punctuation, offset: 230, content: /, id: KR4d0026_krp_024-bkkpn5}
   - {type: variant, offset: 235, length: 1, content: 精, WYG: 弱}
   - {type: punctuation, offset: 237, content: ), id: KR4d0026_krp_024-bkkpn6}
@@ -999,4 +1001,4 @@ markers:
   - {type: variant, offset: 2220, length: 0, content: '', WYG: 欽定四庫全書河南集巻二十五宋尹洙撰}
   - {type: page-break, offset: 2220, content: '', id: KR4d0026_WYG_025-1a, image: WYG1090/WYG1090-0136c.png}
   back: []
-hash: sha256:4f5266240df76adb2e5c287b1300c1c1677a4c41f877fa16cfa5b04f803e5d54
+hash: sha256:c5818b37df6352ac6f960306fcf164de32fa0e697c9e2175a0deeffcfbbe44a5

@@ -458,6 +458,7 @@ markers:
   - {type: line-break, offset: 1277, content: '', id: KR4d0026_SBCK_003-4b05}
   - {type: punctuation, offset: 1291, content: (, id: KR4d0026_krp_003-bkkpn1}
   - {type: variant, offset: 1291, length: 5, content: 川戰虜並在, WYG: ''}
+  - {type: voice, offset: 1291, length: 27, name: note, id: n1}
   - {type: punctuation, offset: 1296, content: /, id: KR4d0026_krp_003-bkkpn2}
   - {type: punctuation, offset: 1301, content: ), id: KR4d0026_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 1301, content: '
@@ -478,6 +479,7 @@ markers:
   - {type: line-break, offset: 1328, content: '', id: KR4d0026_SBCK_003-4b07}
   - {type: punctuation, offset: 1329, content: (, id: KR4d0026_krp_003-bkkpn7}
   - {type: variant, offset: 1329, length: 7, content: 創趙律者去其首, WYG: ''}
+  - {type: voice, offset: 1329, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 1336, content: /, id: KR4d0026_krp_003-bkkpn8}
   - {type: punctuation, offset: 1343, content: ), id: KR4d0026_krp_003-bkkpn9}
   - {type: variant, offset: 1343, length: 0, content: '', WYG: 創趙津者亡其首}
@@ -491,6 +493,7 @@ markers:
   - {type: page-break, offset: 1361, content: '', id: KR4d0026_WYG_003-2b, image: WYG1090/WYG1090-0013b.png}
   - {type: punctuation, offset: 1366, content: (, id: KR4d0026_krp_003-bkkpn10}
   - {type: variant, offset: 1366, length: 7, content: 邊二月己丑至髙, WYG: ''}
+  - {type: voice, offset: 1366, length: 224, name: note, id: n3}
   - {type: punctuation, offset: 1373, content: /, id: KR4d0026_krp_003-bkkpn11}
   - {type: variant, offset: 1374, length: 1, content: 略, WYG: 畧}
   - {type: punctuation, offset: 1380, content: ), id: KR4d0026_krp_003-bkkpn12}
@@ -598,6 +601,7 @@ markers:
   - {type: variant, offset: 1599, length: 1, content: 死, SBCK: 􅂮}
   - {type: punctuation, offset: 1601, content: (, id: KR4d0026_krp_003-bkkpn31}
   - {type: variant, offset: 1601, length: 0, content: '', WYG: 癸已任福桑懌逐賊循好水川西去未至羊}
+  - {type: voice, offset: 1601, length: 293, name: note, id: n4}
   - {type: punctuation, offset: 1618, content: /, id: KR4d0026_krp_003-bkkpn32}
   - {type: variant, offset: 1618, length: 36, content: 癸已任福桑懌逐賊循好水川西去未至羊陣亦死福中數箭小校劉進勸福自免福曰吾爲, WYG: ''}
   - {type: punctuation, offset: 1635, content: ), id: KR4d0026_krp_003-bkkpn33}
@@ -763,6 +767,7 @@ markers:
   - {type: line-break, offset: 2032, content: '', id: KR4d0026_SBCK_003-6a01}
   - {type: punctuation, offset: 2043, content: (, id: KR4d0026_krp_003-bkkpn55}
   - {type: variant, offset: 2043, length: 0, content: '', WYG: 傳以通判慶州參任}
+  - {type: voice, offset: 2043, length: 26, name: note, id: n5}
   - {type: punctuation, offset: 2051, content: /, id: KR4d0026_krp_003-bkkpn56}
   - {type: variant, offset: 2052, length: 7, content: 以通判慶州參任, WYG: 未常往韓}
   - {type: punctuation, offset: 2059, content: ), id: KR4d0026_krp_003-bkkpn57}
@@ -784,6 +789,7 @@ markers:
   - {type: substitution, offset: 2095, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
   - {type: punctuation, offset: 2096, content: (, id: KR4d0026_krp_003-bkkpn61}
   - {type: variant, offset: 2096, length: 0, content: '', WYG: 行營都監武英}
+  - {type: voice, offset: 2096, length: 60, name: note, id: n6}
   - {type: punctuation, offset: 2102, content: /, id: KR4d0026_krp_003-bkkpn62}
   - {type: variant, offset: 2102, length: 5, content: 行營都監武, WYG: 答}
   - {type: punctuation, offset: 2108, content: ), id: KR4d0026_krp_003-bkkpn63}
@@ -826,6 +832,7 @@ markers:
   - {type: substitution, offset: 2188, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 2197, length: 1, content: 邪, WYG: 耶壬辰夕傳在朱觀營中}
   - {type: punctuation, offset: 2198, content: (, id: KR4d0026_krp_003-bkkpn70}
+  - {type: voice, offset: 2198, length: 67, name: note, id: n7}
   - {type: punctuation, offset: 2207, content: /, id: KR4d0026_krp_003-bkkpn71}
   - {type: variant, offset: 2207, length: 5, content: 壬辰夕傳在, WYG: 勝慮前與虜大軍相遇切戒之自冩署}
   - {type: variant, offset: 2214, length: 1, content: 中, WYG: 名}
@@ -1367,4 +1374,4 @@ markers:
   - {type: variant, offset: 3728, length: 0, content: '', WYG: 欽定四庫全書河南集巻四宋尹洙撰}
   - {type: page-break, offset: 3728, content: '', id: KR4d0026_WYG_004-1a, image: WYG1090/WYG1090-0016a.png}
   back: []
-hash: sha256:b011129c6e15f05f2563ed5b80d2071461c2c3f520d62b1ef0d6bdcb03b19fd7
+hash: sha256:c2267ab1704e580d7459218c8224944b52a1ed9f0ae922409969ffd0c4dc1624

@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0026_SBCK_023-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4d0026_krp_023-bkkind1}
   - {type: punctuation, offset: 2, content: (, id: KR4d0026_krp_023-bkkpn1}
+  - {type: voice, offset: 2, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 6, content: ), id: KR4d0026_krp_023-bkkpn2}
   - {type: 'kr:newline', offset: 6, content: '
 
@@ -339,6 +340,7 @@ markers:
   - {type: punctuation, offset: 754, content: (, id: KR4d0026_krp_023-bkkpn3}
   - {type: variant, offset: 754, length: 1, content: 候, SBCK: 􅀱}
   - {type: variant, offset: 754, length: 1, content: 候, WYG: 保}
+  - {type: voice, offset: 754, length: 18, name: note, id: n2}
   - {type: variant, offset: 756, length: 1, content: 羌, SBCK: 􅆧}
   - {type: punctuation, offset: 758, content: /, id: KR4d0026_krp_023-bkkpn4}
   - {type: punctuation, offset: 762, content: ), id: KR4d0026_krp_023-bkkpn5}
@@ -497,6 +499,7 @@ markers:
       ', id: KR4d0026_krp_023-bkkkrnewl70}
   - {type: line-break, offset: 1098, content: '', id: KR4d0026_SBCK_023-4a05}
   - {type: punctuation, offset: 1108, content: (, id: KR4d0026_krp_023-bkkpn9}
+  - {type: voice, offset: 1108, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 1110, content: /, id: KR4d0026_krp_023-bkkpn10}
   - {type: punctuation, offset: 1111, content: ), id: KR4d0026_krp_023-bkkpn11}
   - {type: variant, offset: 1111, length: 1, content: 囘, WYG: 之}
@@ -1023,4 +1026,4 @@ markers:
   - {type: variant, offset: 2567, length: 0, content: '', WYG: 欽定四庫全書河南集巻二十四宋尹洙撰申揀選}
   - {type: page-break, offset: 2567, content: '', id: KR4d0026_WYG_024-1a, image: WYG1090/WYG1090-0132a.png}
   back: []
-hash: sha256:5c61de7294a67908289c3b7d2c86ea7a683d2816a5bb32142add79895f7855e3
+hash: sha256:e4951c33a4d9742c0a534656ed8657c6f854bcdbd28bd5ce7073b401a974705c

@@ -493,6 +493,7 @@ markers:
   - {type: line-break, offset: 1213, content: '', id: KR4d0026_SBCK_002-4b03}
   - {type: punctuation, offset: 1213, content: (, id: KR4d0026_krp_002-bkkpn1}
   - {type: variant, offset: 1213, length: 19, content: 望二十四氣三㐲社臘上飰後漢以正月車駕上, WYG: ''}
+  - {type: voice, offset: 1213, length: 44, name: note, id: n1}
   - {type: substitution, offset: 1219, original: 㐲, replacement: 伏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19364}}
   - {type: punctuation, offset: 1232, content: /, id: KR4d0026_krp_002-bkkpn2}
   - {type: variant, offset: 1237, length: 1, content: 王, WYG: 皇}
@@ -517,6 +518,7 @@ markers:
   - {type: line-break, offset: 1273, content: '', id: KR4d0026_SBCK_002-4b05}
   - {type: punctuation, offset: 1286, content: (, id: KR4d0026_krp_002-bkkpn7}
   - {type: variant, offset: 1286, length: 0, content: '', WYG: 魏武髙陵依漢}
+  - {type: voice, offset: 1286, length: 32, name: note, id: n2}
   - {type: substitution, offset: 1289, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 1292, content: /, id: KR4d0026_krp_002-bkkpn8}
   - {type: variant, offset: 1292, length: 16, content: 魏武髙陵依漢之志自是園邑寢殿通絶, WYG: ''}
@@ -531,6 +533,7 @@ markers:
   - {type: punctuation, offset: 1318, content: ), id: KR4d0026_krp_002-bkkpn12}
   - {type: punctuation, offset: 1326, content: (, id: KR4d0026_krp_002-bkkpn13}
   - {type: variant, offset: 1326, length: 0, content: '', WYG: 永}
+  - {type: voice, offset: 1326, length: 21, name: note, id: n3}
   - {type: punctuation, offset: 1327, content: /, id: KR4d0026_krp_002-bkkpn14}
   - {type: variant, offset: 1327, length: 10, content: 永望上食昭陵依獻故事, WYG: ''}
   - {type: punctuation, offset: 1328, content: ), id: KR4d0026_krp_002-bkkpn15}
@@ -546,6 +549,7 @@ markers:
   - {type: substitution, offset: 1352, original: 豊, replacement: 豐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19974}}
   - {type: punctuation, offset: 1355, content: (, id: KR4d0026_krp_002-bkkpn19}
   - {type: variant, offset: 1355, length: 0, content: '', WYG: 景}
+  - {type: voice, offset: 1355, length: 81, name: note, id: n4}
   - {type: punctuation, offset: 1356, content: /, id: KR4d0026_krp_002-bkkpn20}
   - {type: variant, offset: 1356, length: 20, content: 景獻二陵毎日一祭御史進正觀戍春秋仲月遣使, WYG: ''}
   - {type: punctuation, offset: 1357, content: ), id: KR4d0026_krp_002-bkkpn21}
@@ -580,6 +584,7 @@ markers:
   - {type: punctuation, offset: 1436, content: ), id: KR4d0026_krp_002-bkkpn30}
   - {type: punctuation, offset: 1446, content: (, id: KR4d0026_krp_002-bkkpn31}
   - {type: variant, offset: 1446, length: 0, content: '', WYG: 中宗後兩京宗廟}
+  - {type: voice, offset: 1446, length: 78, name: note, id: n5}
   - {type: punctuation, offset: 1453, content: /, id: KR4d0026_krp_002-bkkpn32}
   - {type: variant, offset: 1453, length: 6, content: 中宗后兩京宗, WYG: 者紛焉大㫖有三一曰必有其}
   - {type: punctuation, offset: 1460, content: ), id: KR4d0026_krp_002-bkkpn33}
@@ -755,6 +760,7 @@ markers:
   - {type: punctuation, offset: 1867, content: (, id: KR4d0026_krp_002-bkkpn40}
   - {type: variant, offset: 1867, length: 1, content: 死, SBCK: 􅂮}
   - {type: variant, offset: 1867, length: 0, content: '', WYG: 貞觀四年天下斷}
+  - {type: voice, offset: 1867, length: 13, name: note, id: n6}
   - {type: punctuation, offset: 1873, content: /, id: KR4d0026_krp_002-bkkpn41}
   - {type: variant, offset: 1873, length: 7, content: 正觀四年天下􅍘, WYG: ''}
   - {type: punctuation, offset: 1880, content: ), id: KR4d0026_krp_002-bkkpn42}
@@ -773,6 +779,7 @@ markers:
   - {type: line-break, offset: 1902, content: '', id: KR4d0026_SBCK_002-6a05}
   - {type: punctuation, offset: 1905, content: (, id: KR4d0026_krp_002-bkkpn43}
   - {type: variant, offset: 1905, length: 0, content: '', WYG: 天聖元年至三年或二千七}
+  - {type: voice, offset: 1905, length: 22, name: note, id: n7}
   - {type: punctuation, offset: 1916, content: /, id: KR4d0026_krp_002-bkkpn44}
   - {type: variant, offset: 1916, length: 11, content: 天聖元年至三年或二千七, WYG: ''}
   - {type: punctuation, offset: 1927, content: ), id: KR4d0026_krp_002-bkkpn45}
@@ -1288,4 +1295,4 @@ markers:
 
       ', id: KR4d0026_krp_002-bkkkrnewl194}
   back: []
-hash: sha256:2210b300664ee171b0d948d4f560f7876b54290ba17960e2134ab12469a9c1b9
+hash: sha256:a37f548bfbcdf4b831932c150ba0eef065df0b70614b85ec51807c24ffc34aab

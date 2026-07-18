@@ -900,6 +900,7 @@ markers:
   - {type: page-break, offset: 2428, content: '', id: KR4d0026_WYG_013-8a, image: WYG1090/WYG1090-0067c.png}
   - {type: punctuation, offset: 2431, content: (, id: KR4d0026_krp_013-bkkpn1}
   - {type: variant, offset: 2431, length: 2, content: 并序, WYG: ''}
+  - {type: voice, offset: 2431, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2433, content: ), id: KR4d0026_krp_013-bkkpn2}
   - {type: 'kr:newline', offset: 2433, content: '
 
@@ -1277,6 +1278,7 @@ markers:
   - {type: indent, offset: 3490, content: 　　　, id: KR4d0026_krp_013-bkkind44}
   - {type: substitution, offset: 3494, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 3496, content: (, id: KR4d0026_krp_013-bkkpn3}
+  - {type: voice, offset: 3496, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3498, content: ), id: KR4d0026_krp_013-bkkpn4}
   - {type: 'kr:newline', offset: 3498, content: '
 
@@ -1563,6 +1565,7 @@ markers:
   - {type: indent, offset: 4280, content: 　　　, id: KR4d0026_krp_013-bkkind48}
   - {type: substitution, offset: 4292, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 4294, content: (, id: KR4d0026_krp_013-bkkpn5}
+  - {type: voice, offset: 4294, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4296, content: ), id: KR4d0026_krp_013-bkkpn6}
   - {type: 'kr:newline', offset: 4296, content: '
 
@@ -1910,4 +1913,4 @@ markers:
   - {type: variant, offset: 5325, length: 0, content: '', WYG: 欽定四庫全書河南集巻}
   - {type: page-break, offset: 5325, content: '', id: KR4d0026_WYG_014-1a, image: WYG1090/WYG1090-0072c.png}
   back: []
-hash: sha256:9ec0769faf1dd280406f78eb5929a5aae38f76499e8e55a72be1c62bcc4a08c2
+hash: sha256:2bcfb25d991c8f0c3008a3bc09aef2ff1e6ececa7a4d35f4d334d553f1814a50

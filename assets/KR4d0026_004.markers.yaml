@@ -1398,6 +1398,7 @@ markers:
   - {type: line-break, offset: 3412, content: '', id: KR4d0026_SBCK_004-11a03}
   - {type: punctuation, offset: 3412, content: (, id: KR4d0026_krp_004-bkkpn1}
   - {type: variant, offset: 3412, length: 15, content: 郭仲徴嘉善新居有十餘字甘露致之, WYG: ''}
+  - {type: voice, offset: 3412, length: 31, name: note, id: n1}
   - {type: punctuation, offset: 3427, content: /, id: KR4d0026_krp_004-bkkpn2}
   - {type: punctuation, offset: 3443, content: ), id: KR4d0026_krp_004-bkkpn3}
   - {type: variant, offset: 3443, length: 0, content: '', WYG: 郭仲㣲嘉善新居有十餘字甘露致之}
@@ -1516,4 +1517,4 @@ markers:
   - {type: page-break, offset: 3739, content: '', id: KR4d0026_WYG_004-13b, image: WYG1090/WYG1090-0022b.png}
   - {type: page-break, offset: 3739, content: '', id: KR4d0026_WYG_005-1a, image: WYG1090/WYG1090-0022c.png}
   back: []
-hash: sha256:282c82faff9566b762443a53fcc5d692ecfddda9acb7abaed1cdbb14188a261d
+hash: sha256:f27d5029a2451c6ca3be4fa9718e6bdf85b130cdcb38669b757b30ee085a05ef
